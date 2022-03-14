@@ -1,5 +1,5 @@
 <?php
-header('Refresh: 12');
+header('Refresh: 10');
 session_start();
 error_reporting(0);
 include('includes/config.php');
